@@ -1,4 +1,4 @@
-# Game Jolt Trophy for Python
+# Game Jolt Trophy for Ren'Py
 
 Original file by vncastanheira@gmail.com
 version 1.1
