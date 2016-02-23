@@ -15,7 +15,7 @@ Also, i can't guarantee a good support on it because I am myself a n00b at it. O
 Anyway, let's start.
 
 ### The file py_gjapi.rpy
-This file is a basic python script that includes a class that will interact with the GameJolt API. It has been made by vncastanheira and you can find the script alone here: https://github.com/maxlefou/gjapi_renpy It is a fork of the file py_gjapi.py made by vncastanheira that you can find here: https://github.com/vncastanheira/gjapi_python
+This file is a basic python script that includes a class that will interact with the GameJolt API. It is a fork of the file py_gjapi.py made by vncastanheira that you can find here: https://github.com/vncastanheira/gjapi_python
 
 As is, the script should work with anything in python out of the box. But sadly, for Ren'Py, it's not the case. It needs a conversion. Fortunately, a very simple conversion. (this is why this fork is made) 
 Simply copy this file into the game folder of your game.
