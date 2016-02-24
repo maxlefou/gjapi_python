@@ -6,7 +6,7 @@ version 1.1
 #### This program is free software: you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License
 
 This is a script and a sample that lets you use Game Jolt trophies and scoring in your Ren'Py games.
-You can find a sample game that uses it here: https://github.com/maxlefou/GameJolt_API_for_RenPy_Sample_Game If you are new with python and Ren'Py coding, I suggest you to get an eye on the sample game's code while reading this README file.
+You can find a sample game that uses it here: https://github.com/maxlefou/GameJolt_API_for_RenPy_Sample_Game If you are new with python and Ren'Py coding, I suggest you to get an eye on the sample game's code while reading this README file. You can also get a sample game using this API in the url here: http://gamejolt.com/games/game-jolt-api-for-ren-py-sample-game/127112
 
 ## Basic instructions
 This document will explain you how to use the GameJolt API in Ren'Py in the most basic way. I'm not really a python coder, just having small notions of it, but I could make this. It means it's the most simpliest way to make work the API in Ren'Py. If you are an advanced python developper, feel free to get inspired and go further into it. ^^
