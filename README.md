@@ -8,4 +8,4 @@ version 1.1
 This is a script that lets you use Game Jolt trophies and scoring in your Ren'Py games. It's originally a python script modified so it can be understood by the Ren'Py engine.
 You can find a sample game that uses it here: https://github.com/maxlefou/GameJolt_API_for_RenPy_Sample_Game If you are new with python and Ren'Py coding, I suggest you to get an eye on the sample game's code while reading this README file. You can also get the sample game compiled in the url here: http://gamejolt.com/games/game-jolt-api-for-ren-py-sample-game/127112
 
-You have instructions on how to use it in the wiki.
+Simply drop the .rpy file with the other rpy files of your project. Then, you have the instructions on how to use it in the wiki.
