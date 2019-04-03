@@ -1,5 +1,8 @@
 # Game Jolt Trophy for Ren'Py
 
+[![Licence](https://img.shields.io/badge/license-GNU%20LGPLv3-green.svg)](https://www.gnu.org/licenses/lgpl-3.0.en.html)
+[![Ren'Py](https://img.shields.io/badge/renpy-7.x-blue.svg)](https://renpy.org)
+
 Original file by [vncastanheira on GitHub](https://github.com/vncastanheira/gjapi_python)
 version 1.1
 
