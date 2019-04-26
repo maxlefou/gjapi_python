@@ -1,6 +1,6 @@
 # Game Jolt Trophy for Python
 # by viniciusepiplon - vncastanheira@gmail.com
-# version 1.2
+# version 1.1
 # Python 3.x stable
 # Python 2.7 unsupported
 
